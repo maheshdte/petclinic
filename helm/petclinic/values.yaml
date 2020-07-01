@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: maheshdte/petclinic
+  repository: maheshdte/petclinicimage
   tag: latest
   pullPolicy: IfNotPresent
 
